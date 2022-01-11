@@ -15,6 +15,7 @@ import BoringPoints from './screens/BoringPoints';
 import HomeScreen from './screens/home';
 import ProjectDetails from './screens/projectDetails';
 import {useNavigation} from '@react-navigation/native';
+//import BoringPointDetails from './screens/BoringPointDetails';
 import BoringPointDetails from './screens/BoringPointDetails';
 
 const Stack = createNativeStackNavigator();
